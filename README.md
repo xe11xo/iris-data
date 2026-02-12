@@ -29,7 +29,7 @@ Silhouette Score: для оценки плотности и разделенно
 🚀 Как запустить
 Клонируйте репозиторий:
 Bash
-git clone [https://github.com/ваш-логин/название-репозитория.git](https://github.com/xe11xo/iris-data)
+git clone (https://github.com/xe11xo/iris-data)
 Установите необходимые зависимости:
 Bash
 pip install pandas numpy matplotlib seaborn scikit-learn
